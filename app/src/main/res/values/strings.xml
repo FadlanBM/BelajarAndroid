@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Example Name :</string>
+    <string name="text_hint">Name</string>
+    <string name="sapaan">Hello %1$s</string>
+    <string name="send">Send</string>
+</resources>

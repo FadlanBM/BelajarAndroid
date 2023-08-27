@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplikasi Saya</string>
+    <string name="title">Sample Nama :</string>
+    <string name="text_hint">Nama</string>
+    <string name="sapaan">Halo %1$s</string>
+    <string name="send">Kirim</string>
+</resources>
